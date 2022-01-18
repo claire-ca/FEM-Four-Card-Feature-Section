@@ -25,12 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop view](./screenshots/screenshot-desktop.png)
+![Mobile view](./screenshots/screenshot-mobile.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://fem-four-card-feature-section-19583ybp4-claire-ca.vercel.app/)
 
 ## My process
 
