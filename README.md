@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://fem-four-card-feature-section-19583ybp4-claire-ca.vercel.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-four-card-feature-section-using-css-grid-zf7C6U-7N](https://www.frontendmentor.io/solutions/responsive-four-card-feature-section-using-css-grid-zf7C6U-7N)
+- Live Site URL: [https://fem-four-card-feature-section-19583ybp4-claire-ca.vercel.app/](https://fem-four-card-feature-section-19583ybp4-claire-ca.vercel.app/)
 
 ## My process
 
